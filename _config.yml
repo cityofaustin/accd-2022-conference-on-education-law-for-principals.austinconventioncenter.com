@@ -10,6 +10,10 @@ event_coordinator:
   name: Alexandra Pelayo
   email: alexandra.pelayo@austintexas.gov
   phone: 5124044219
+utility_coordinator:
+  name: Jacek Czelak
+  email: jacek.czelak@austintexas.gov
+  phone: 5124044229
 security_coordinator:
   name: Charles Johnson
   email: Charles.Johnson@austintexas.gov
@@ -19,9 +23,9 @@ sales_manager:
   email: jeff.kuryak@austintexas.gov
   phone: 5124044042
 catering_manager:
-  name: Kim Robinson
-  email: krobinson@levyrestaurants.com
-  phone: 5124044152
+  name: Kerry Craig
+  email: kcraig@levyrestaurants.com
+  phone: 5124044137
 it_coordinator:
   name: Jeff Moore
   email: jeff.moore@austintexas.gov
